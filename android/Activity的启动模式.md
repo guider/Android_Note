@@ -1,5 +1,4 @@
-Activity的启动模式
-字数2525 阅读397 评论1 喜欢2
+
 LaunchMode
 在声明Activity的xml中指定 android:launchMode="xxx"
 standard
