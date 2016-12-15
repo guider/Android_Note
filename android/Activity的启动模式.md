@@ -1,4 +1,5 @@
-## LaunchMode
+* ### LaunchMode
+
 
 在声明Activity的xml中指定 android:launchMode="xxx"
 
